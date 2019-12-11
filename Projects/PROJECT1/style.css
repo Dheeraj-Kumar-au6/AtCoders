@@ -1,0 +1,46 @@
+body{
+    background-image:url(backpic.jpg)
+}
+#css_fix{
+    width:100px;
+    height:100px;
+    background-color:azure;
+    position:fixed;
+}
+#footadd{
+    position:fixed;
+    bottom:5px;
+    background-color:rgba(0,0,0,.7);
+    color:white;
+    width:99%;
+    border-radius:20px;
+    text-align:center;
+    
+}
+#rela{
+    width:100px;
+    height:100px;
+    background-color:azure;
+}
+#leftbox{
+    position:relative;
+    top:20%;
+    left:15%;
+    height:40%;
+    width:15%;
+    border-style: solid;
+    border-width: thin;
+    background-color:rgba(231, 228, 21, 0.7)
+}
+li{
+    height:19%;
+    width:100%;
+    color:white;
+}
+#main{
+    position:relative;
+    top:-18%;
+    left:31%;
+    height:40%;
+    
+}
