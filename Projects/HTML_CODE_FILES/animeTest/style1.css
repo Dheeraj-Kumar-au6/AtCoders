@@ -1,0 +1,9 @@
+@media only screen and (min-width: 768px) and (max-width: 992px)
+{
+    p
+    {
+        font-size: 50px;
+        color: maroon;
+        background-color: mediumaquamarine;
+    }
+}
