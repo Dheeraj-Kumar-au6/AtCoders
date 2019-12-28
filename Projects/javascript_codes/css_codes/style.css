@@ -1,0 +1,32 @@
+/* .div_parent {
+  border: 0.1rem solid black;
+  text-align: center;
+  padding-top: 8rem;
+  padding-right: 10rem;
+  margin-top: 10rem;
+  margin-left: 10rem;
+  margin-bottom: 10rem;
+  margin-right: 10rem;
+  height: 10rem;
+  width: 10rem;
+  background-image: url("pic1.jpg");
+}
+.div_child {
+  border: 0.1em solid red;
+  text-align: center;
+  margin-left: 5em;
+  margin-right: 2em;
+  margin-top: 0.5em;
+  padding-top: 4em;
+  height: 10em;
+  width: 10em;
+  background-image: url("pic3.jpg");
+} */
+.div_box {
+  border: 0.1rem solid black;
+  height: 20rem;
+  width: 20rem;
+  margin-left: 30rem;
+  padding-left: 10em;
+  padding-top: 5em;
+}
