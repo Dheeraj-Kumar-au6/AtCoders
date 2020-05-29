@@ -1,0 +1,27 @@
+{
+  "name": "week10_day_04_cc",
+  "version": "1.0.0",
+  "description": "week_10_day_04_cc_creating_a_mini_article_application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "nodemon",
+    "postman",
+    "get",
+    "post",
+    "update",
+    "delete"
+  ],
+  "author": "Atanu Paul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
